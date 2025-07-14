@@ -1,0 +1,66 @@
+body{
+    background-color: #0d1117;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+.topLink{
+    color: #c3d0e5;
+    padding-left: 25px;
+    font-size: 15;
+    font-weight: 500;
+    cursor: pointer;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+.head{
+    font-size: 22;
+    font-weight: 600;
+    color: #c3d0e5;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+}
+
+.boxes{
+    border: 0.1px solid rgb(61, 59, 59);
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: rgba(255, 255, 255, 0.04);
+}
+
+.def{
+    padding-top: 10px;
+    color: #9FB1D1;
+    font-size: 18;
+    font-weight: 500;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 15px;
+}
+
+.banner{
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+    border-radius: 8px;
+    margin-left: 125px;
+    margin-right: 100px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+
+    background-image: url(copilot-free-banner-bg-dark.webp); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.secondBanner{
+    padding-right: 100px;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
